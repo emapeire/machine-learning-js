@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@xenova/transformers": "^2.8.0",
+    "fs": "^0.0.1-security",
     "wavefile": "^11.0.0"
   }
 }
