@@ -1,4 +1,4 @@
-# Machine Learning Text-To-Speech Model with HuggingFace
+## Machine Learning Text-To-Speech Model with HuggingFace
 
 ```js
 import { pipeline } from "@xenova/transformers";
